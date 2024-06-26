@@ -3,7 +3,7 @@
 
   <!-- Banner (replace with your own GIF URL) -->
   <p align="center">
-    <img src="https://media.giphy.com/media/11kEuHSQAXXiGQ/giphy.gif" alt="Funny GIF Banner" style="border-radius: 10px;">
+    <img src="https://media.giphy.com/media/1gA1TAX1FMCW/giphy.gif" alt="Funny GIF Banner" style="border-radius: 10px;">
   </p>
 
   <!-- Header -->
