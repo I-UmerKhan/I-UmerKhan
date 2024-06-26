@@ -52,8 +52,10 @@
 
   <!-- Contact Section -->
   <h3 align="center">📧 Let's Connect and Chat!</h3>
+  <p align="center" style="font-size: 18px;">
+    Open to collaborations and new opportunities.
+  </p>
   <p align="center">
-    <i>Open to collaborations and new opportunities.</i><br>
     <a href="mailto:merk2397@gmail.com">
       <button style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">Email Me</button>
     </a>
