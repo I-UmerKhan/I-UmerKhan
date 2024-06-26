@@ -5,7 +5,7 @@
 <!-- Header -->
 <h1 align="center">Hi there, I'm Umer 👋</h1>
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourusername/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"></a>
+  <a href="www.linkedin.com/in/umer-khan-141a54221"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"></a>
 </p>
 
 <!-- Intro -->
