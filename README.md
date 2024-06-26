@@ -37,5 +37,23 @@
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark">
 </p>
 
+<!-- Streak Stats -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark">
+</p>
+
+<!-- Top Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark">
+</p>
+
+<!-- Recent Activity -->
+<h3 align="center">🔄 Recent Activity:</h3>
+<!--START_SECTION:activity-->
+1. 🗣 Commented on [Issue #123](https://github.com/yourusername/project1/issues/123) in [yourusername/project1](https://github.com/yourusername/project1)
+2. 🎉 Merged PR [#456](https://github.com/yourusername/project2/pull/456) in [yourusername/project2](https://github.com/yourusername/project2)
+3. 💪 Opened PR [#789](https://github.com/yourusername/project3/pull/789) in [yourusername/project3](https://github.com/yourusername/project3)
+<!--END_SECTION:activity-->
+
 <!-- Footer -->
 <p align="center">Let's connect and chat! Open to collaborations and new opportunities.</p>
