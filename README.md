@@ -1,19 +1,23 @@
 <!-- Background color and styling -->
-<div style="background-color:#24292e; color: #ffffff; padding: 20px; border-radius: 10px;">
+<div style="background-color:#0e1016; color: #ffffff; padding: 30px; border-radius: 10px;">
 
-  <!-- Banner (replace with your own GIF URL) -->
+  <!-- Banner -->
   <p align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTE0eW41aTlhbHZjem1lMGJ0OTl2dDNueWFtOHQxZWltMWNwNmh1biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/oWjyixDbWuAk8/giphy.gif" alt="Funny GIF Banner" style="border-radius: 10px;">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTE0eW41aTlhbHZjem1lMGJ0OTl2dDNueWFtOHQxZWltMWNwNmh1biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/oWjyixDbWuAk8/giphy.gif" alt="Banner GIF" style="border-radius: 10px; width: 100%; max-width: 600px;">
   </p>
 
   <!-- Header -->
-  <h1 align="center">Hi there, I'm Umer 👋</h1>
+  <h1 align="center">Hi there, I'm Umer Khan 👋</h1>
+
+  <!-- Social Media and Contact Buttons -->
   <p align="center">
     <a href="https://www.linkedin.com/in/umer-khan-141a54221"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"></a>
+    <a href="mailto:merk2397@gmail.com"><img src="https://img.shields.io/badge/-Email-ff6600?style=flat-square&logo=gmail&logoColor=white"></a>
+    <a href="https://github.com/I-UmerKhan"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"></a>
   </p>
 
-  <!-- Intro -->
-  <p align="center">Welcome to my GitHub profile! I'm an aspiring data scientist with a knack for solving complex problems through analysis and model building. I thrive on creating applications and predictive models that make a meaningful impact on how we interact with technology.</p>
+  <!-- Introduction -->
+  <p align="center" style="font-size: 18px; margin-bottom: 30px;">Welcome to my GitHub profile! I'm passionate about data science, AI, and creating impactful solutions through technology.</p>
 
   <!-- Skills -->
   <h3 align="center">🚀 Skills and Tools:</h3>
@@ -52,7 +56,7 @@
 
   <!-- Contact Section -->
   <div align="center" style="margin-top: 30px;">
-    <h2 style="font-size: 24px;">📧 Let's Connect and Chat!</h2>
+    <h2 style="font-size: 24px; color: #ffffff;">📧 Let's Connect and Chat!</h2>
     <p style="font-size: 18px;">Open to collaborations and new opportunities.</p>
     <a href="mailto:merk2397@gmail.com">
       <img src="https://img.icons8.com/material-sharp/24/ffffff/email.png" style="vertical-align: middle;">&nbsp;
