@@ -1,5 +1,5 @@
 <!-- Banner -->
-<p align="center">
+<p align="center" style="background-color:#2c3e50; padding: 20px;">
   <img src="https://placeimg.com/1000/300/tech" alt="Banner Image">
 </p>
 
@@ -22,6 +22,11 @@
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/-Deep%20Learning-FF6F00?style=flat-square&logo=deep-learning&logoColor=white">
   <img src="https://img.shields.io/badge/-NLP-8A2BE2?style=flat-square&logo=nlp&logoColor=white">
+</p>
+
+<!-- GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200">
 </p>
 
 <!-- Featured Projects -->
@@ -50,4 +55,7 @@
 <!-- Footer -->
 <p align="center">
   <i>Let's connect and chat! Open to collaborations and new opportunities.</i>
+</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200">
 </p>
