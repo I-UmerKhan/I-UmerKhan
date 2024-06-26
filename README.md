@@ -60,7 +60,7 @@
     <p style="font-size: 18px;">Open to collaborations and new opportunities.</p>
     <a href="mailto:merk2397@gmail.com">
       <button style="background-color: #4CAF50; color: white; padding: 12px 24px; border: none; border-radius: 5px; cursor: pointer; display: inline-flex; align-items: center;">
-        <img src="https://img.icons8.com/material-sharp/24/ffffff/email.png" style="vertical-align: middle; margin-right: 8px;"> Email Me
+        <img src="https://img.icons8.com/material-outlined/24/ffffff/email.png" style="vertical-align: middle; margin-right: 8px;"> Email Me
       </button>
     </a>
   </div>
