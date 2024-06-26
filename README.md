@@ -1,5 +1,5 @@
 <!-- Background color and styling -->
-<div style="background-color:#24292e; padding: 20px; border-radius: 10px;">
+<div style="background-color:#24292e; color: #ffffff; padding: 20px; border-radius: 10px;">
 
   <!-- Banner (replace with your own GIF URL) -->
   <p align="center">
@@ -52,10 +52,13 @@
 
   <!-- Contact Section -->
   <div align="center" style="margin-top: 30px;">
-    <h2 style="font-size: 24px; color: #ffffff;">📧 Let's Connect and Chat!</h2>
-    <p style="font-size: 18px; color: #cccccc;">Open to collaborations and new opportunities.</p>
+    <h2 style="font-size: 24px;">📧 Let's Connect and Chat!</h2>
+    <p style="font-size: 18px;">Open to collaborations and new opportunities.</p>
     <a href="mailto:merk2397@gmail.com">
-      <button style="background-color: #4CAF50; color: white; padding: 12px 24px; border: none; border-radius: 5px; cursor: pointer;">Email Me</button>
+      <img src="https://img.icons8.com/material-sharp/24/ffffff/email.png" style="vertical-align: middle;">&nbsp;
+      <span style="font-size: 16px;">
+        <button style="background-color: #4CAF50; color: white; padding: 12px 24px; border: none; border-radius: 5px; cursor: pointer;">Email Me</button>
+      </span>
     </a>
   </div>
 
