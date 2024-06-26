@@ -59,10 +59,9 @@
     <h2 style="font-size: 24px; color: #ffffff;">📧 Let's Connect and Chat!</h2>
     <p style="font-size: 18px;">Open to collaborations and new opportunities.</p>
     <a href="mailto:merk2397@gmail.com">
-      <img src="https://img.icons8.com/material-sharp/24/ffffff/email.png" style="vertical-align: middle;">&nbsp;
-      <span style="font-size: 16px;">
-        <button style="background-color: #4CAF50; color: white; padding: 12px 24px; border: none; border-radius: 5px; cursor: pointer;">Email Me</button>
-      </span>
+      <button style="background-color: #4CAF50; color: white; padding: 12px 24px; border: none; border-radius: 5px; cursor: pointer; display: inline-flex; align-items: center;">
+        <img src="https://img.icons8.com/material-sharp/24/ffffff/email.png" style="vertical-align: middle; margin-right: 8px;"> Email Me
+      </button>
     </a>
   </div>
 
