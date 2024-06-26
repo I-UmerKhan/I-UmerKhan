@@ -50,10 +50,13 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=I-UmerKhan&layout=compact&theme=dark">
   </p>
 
-  <!-- Footer -->
+  <!-- Contact Section -->
+  <h3 align="center">📧 Let's Connect and Chat!</h3>
   <p align="center">
-    <i>Let's connect and chat! Open to collaborations and new opportunities.</i>
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTE0eW41aTlhbHZjem1lMGJ0OTl2dDNueWFtOHQxZWltMWNwNmh1biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7aTqp7rSDB6uoTgA/giphy.gif" alt="Funny GIF" style="vertical-align: middle; max-width: 50px;">
+    <i>Open to collaborations and new opportunities.</i><br>
+    <a href="mailto:merk2397@gmail.com">
+      <button style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">Email Me</button>
+    </a>
   </p>
 
 </div>
