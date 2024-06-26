@@ -51,14 +51,12 @@
   </p>
 
   <!-- Contact Section -->
-  <h3 align="center">📧 Let's Connect and Chat!</h3>
-  <p align="center" style="font-size: 18px;">
-    Open to collaborations and new opportunities.
-  </p>
-  <p align="center">
+  <div align="center" style="margin-top: 30px;">
+    <h2 style="font-size: 24px; color: #ffffff;">📧 Let's Connect and Chat!</h2>
+    <p style="font-size: 18px; color: #cccccc;">Open to collaborations and new opportunities.</p>
     <a href="mailto:merk2397@gmail.com">
-      <button style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">Email Me</button>
+      <button style="background-color: #4CAF50; color: white; padding: 12px 24px; border: none; border-radius: 5px; cursor: pointer;">Email Me</button>
     </a>
-  </p>
+  </div>
 
 </div>
