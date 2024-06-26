@@ -1,3 +1,7 @@
+<!-- Banner -->
+<p align="center">
+  <img src="https://placeimg.com/1000/300/tech" alt="Banner Image">
+</p>
 <!-- Header -->
 <h1 align="center">Hi there, I'm Umer 👋</h1>
 <p align="center">
