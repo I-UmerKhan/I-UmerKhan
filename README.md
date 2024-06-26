@@ -1,182 +1,68 @@
-<!DOCTYPE html>
-<html lang="en">
+<!-- Background color and styling -->
+<div style="background-color:#0e1016; color: #ffffff; padding: 30px; border-radius: 10px; font-family: Arial, sans-serif;">
 
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Umer Khan - GitHub Profile</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background-color: #0e1016;
-      color: #ffffff;
-      padding: 20px;
-    }
+  <!-- Banner -->
+  <p align="center">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTE0eW41aTlhbHZjem1lMGJ0OTl2dDNueWFtOHQxZWltMWNwNmh1biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/oWjyixDbWuAk8/giphy.gif" alt="Banner GIF" style="border-radius: 10px; width: 100%; max-width: 600px;">
+  </p>
 
-    .profile-container {
-      max-width: 800px;
-      margin: 0 auto;
-      padding: 30px;
-      border-radius: 10px;
-      background-color: #1b1e23;
-      box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
-    }
+  <!-- Header -->
+  <h1 align="center" style="font-size: 36px; margin-bottom: 10px;">Hi there, I'm Umer Khan 👋</h1>
 
-    .banner img {
-      display: block;
-      width: 100%;
-      max-width: 600px;
-      margin: 0 auto;
-      border-radius: 10px;
-    }
+  <!-- Social Media and Contact Buttons -->
+  <p align="center" style="margin: 20px 0;">
+    <a href="https://www.linkedin.com/in/umer-khan-141a54221" style="margin: 0 10px;"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"></a>
+    <a href="mailto:merk2397@gmail.com" style="margin: 0 10px;"><img src="https://img.shields.io/badge/-Email-ff6600?style=flat-square&logo=gmail&logoColor=white"></a>
+    <a href="https://github.com/I-UmerKhan" style="margin: 0 10px;"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"></a>
+  </p>
 
-    .section {
-      margin-bottom: 30px;
-    }
+  <!-- Introduction -->
+  <p align="center" style="font-size: 18px; margin-bottom: 30px;">Welcome to my GitHub profile! I'm passionate about data science, AI, and creating impactful solutions through technology.</p>
 
-    .section-header {
-      font-size: 36px;
-      text-align: center;
-      margin-bottom: 10px;
-    }
+  <!-- Skills -->
+  <h3 align="center" style="font-size: 24px; margin-bottom: 20px;">🚀 Skills and Tools:</h3>
+  <p align="center">
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" style="margin: 5px;">
+    <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=sql&logoColor=white" style="margin: 5px;">
+    <img src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" style="margin: 5px;">
+    <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black" style="margin: 5px;">
+    <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" style="margin: 5px;">
+    <img src="https://img.shields.io/badge/-Deep%20Learning-FF6F00?style=flat-square&logo=deep-learning&logoColor=white" style="margin: 5px;">
+    <img src="https://img.shields.io/badge/-NLP-8A2BE2?style=flat-square&logo=nlp&logoColor=white" style="margin: 5px;">
+  </p>
 
-    .social-links {
-      text-align: center;
-      margin: 20px 0;
-    }
+  <!-- Featured Projects -->
+  <h3 align="center" style="font-size: 24px; margin-bottom: 20px;">🔥 Featured Projects:</h3>
+  <p align="center">
+    <a href="https://github.com/I-UmerKhan/project1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=I-UmerKhan&repo=project1&theme=dark"></a>
+    <a href="https://github.com/I-UmerKhan/project2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=I-UmerKhan&repo=project2&theme=dark"></a>
+  </p>
 
-    .social-links a {
-      margin: 0 10px;
-    }
+  <!-- GitHub Stats -->
+  <h3 align="center" style="font-size: 24px; margin-bottom: 20px;">📈 GitHub Stats:</h3>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=I-UmerKhan&show_icons=true&theme=dark" style="margin: 0 10px;">
+  </p>
 
-    .introduction {
-      text-align: center;
-      font-size: 18px;
-      margin-bottom: 30px;
-    }
+  <!-- Streak Stats -->
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=I-UmerKhan&theme=dark" style="margin: 0 10px;">
+  </p>
 
-    .skills {
-      text-align: center;
-      margin-bottom: 20px;
-    }
+  <!-- Top Languages -->
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=I-UmerKhan&layout=compact&theme=dark" style="margin: 0 10px;">
+  </p>
 
-    .skills img {
-      margin: 5px;
-    }
-
-    .featured-projects {
-      text-align: center;
-      margin-bottom: 20px;
-    }
-
-    .featured-projects a {
-      margin: 0 10px;
-    }
-
-    .github-stats {
-      text-align: center;
-      margin-bottom: 20px;
-    }
-
-    .contact-section {
-      text-align: center;
-      margin-top: 40px;
-    }
-
-    .contact-section h2 {
-      font-size: 24px;
-      color: #ff6600;
-    }
-
-    .contact-section p {
-      font-size: 18px;
-      margin-bottom: 20px;
-    }
-
-    .contact-button {
-      background-color: #ff6600;
-      color: white;
-      padding: 12px 24px;
-      border: none;
-      border-radius: 5px;
-      cursor: pointer;
-      font-size: 18px;
-      transition: background-color 0.3s;
-      text-decoration: none;
-    }
-
-    .contact-button:hover {
-      background-color: #e65c00;
-    }
-  </style>
-</head>
-
-<body>
-
-  <div class="profile-container">
-
-    <!-- Banner -->
-    <div class="section banner">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTE0eW41aTlhbHZjem1lMGJ0OTl2dDNueWFtOHQxZWltMWNwNmh1biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/oWjyixDbWuAk8/giphy.gif" alt="Banner GIF">
-    </div>
-
-    <!-- Header -->
-    <div class="section">
-      <h1 class="section-header">Hi there, I'm Umer Khan 👋</h1>
-    </div>
-
-    <!-- Social Media and Contact Buttons -->
-    <div class="section social-links">
-      <a href="https://www.linkedin.com/in/umer-khan-141a54221"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
-      <a href="mailto:merk2397@gmail.com"><img src="https://img.shields.io/badge/-Email-ff6600?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-      <a href="https://github.com/I-UmerKhan"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
-    </div>
-
-    <!-- Introduction -->
-    <div class="section introduction">
-      <p>Welcome to my GitHub profile! I'm passionate about data science, AI, and creating impactful solutions through technology.</p>
-    </div>
-
-    <!-- Skills -->
-    <div class="section skills">
-      <h3 class="section-header">🚀 Skills and Tools:</h3>
-      <p>
-        <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-        <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=sql&logoColor=white" alt="SQL">
-        <img src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau">
-        <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black" alt="Power BI">
-        <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
-        <img src="https://img.shields.io/badge/-Deep%20Learning-FF6F00?style=flat-square&logo=deep-learning&logoColor=white" alt="Deep Learning">
-        <img src="https://img.shields.io/badge/-NLP-8A2BE2?style=flat-square&logo=nlp&logoColor=white" alt="NLP">
-      </p>
-    </div>
-
-    <!-- Featured Projects -->
-    <div class="section featured-projects">
-      <h3 class="section-header">🔥 Featured Projects:</h3>
-      <p>
-        <a href="https://github.com/I-UmerKhan/project1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=I-UmerKhan&repo=project1&theme=dark" alt="Project 1"></a>
-        <a href="https://github.com/I-UmerKhan/project2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=I-UmerKhan&repo=project2&theme=dark" alt="Project 2"></a>
-      </p>
-    </div>
-
-    <!-- GitHub Stats -->
-    <div class="section github-stats">
-      <h3 class="section-header">📈 GitHub Stats:</h3>
-      <p>
-        <img src="https://github-readme-stats.vercel.app/api?username=I-UmerKhan&show_icons=true&theme=dark" alt="GitHub Stats">
-      </p>
-    </div>
-
-    <!-- Contact Section -->
-    <div class="section contact-section">
-      <h2>📧 Let's Connect and Chat!</h2>
-      <p>Open to collaborations and new opportunities.</p>
-      <a href="mailto:merk2397@gmail.com" class="contact-button">Email Me</a>
-    </div>
-
+  <!-- Contact Section -->
+  <div align="center" style="margin-top: 40px;">
+    <h2 style="font-size: 24px; color: #ff6600;">📧 Let's Connect and Chat!</h2>
+    <p style="font-size: 18px; margin-bottom: 20px;">Open to collaborations and new opportunities.</p>
+    <a href="mailto:merk2397@gmail.com">
+      <button style="background-color: #ff6600; color: white; padding: 12px 24px; border: none; border-radius: 5px; cursor: pointer; font-size: 18px; transition: background-color 0.3s;">
+        Email Me
+      </button>
+    </a>
   </div>
 
-</body>
-
-</html>
+</div>
