@@ -3,7 +3,7 @@
 
   <!-- Banner (replace with your own GIF URL) -->
   <p align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXNwcmIybG95NmtxenVqOGcyZWs4c3YxNml1c2xkajF5YmtmMmJldiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/oWjyixDbWuAk8/giphy.gif" alt="Funny GIF Banner" style="border-radius: 10px;">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTE0eW41aTlhbHZjem1lMGJ0OTl2dDNueWFtOHQxZWltMWNwNmh1biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7aTqp7rSDB6uoTgA/giphy.gif" alt="Funny GIF Banner" style="border-radius: 10px;">
   </p>
 
   <!-- Header -->
@@ -53,5 +53,6 @@
   <!-- Footer -->
   <p align="center">
     <i>Let's connect and chat! Open to collaborations and new opportunities.</i>
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTE0eW41aTlhbHZjem1lMGJ0OTl2dDNueWFtOHQxZWltMWNwNmh1biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7aTqp7rSDB6uoTgA/giphy.gif" alt="Funny GIF" style="vertical-align: middle; max-width: 50px;">
   </p>
 </div>
