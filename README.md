@@ -24,11 +24,6 @@
   <img src="https://img.shields.io/badge/-NLP-8A2BE2?style=flat-square&logo=nlp&logoColor=white">
 </p>
 
-<!-- GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200">
-</p>
-
 <!-- Featured Projects -->
 <h3 align="center">🔥 Featured Projects:</h3>
 <p align="center">
@@ -55,7 +50,4 @@
 <!-- Footer -->
 <p align="center">
   <i>Let's connect and chat! Open to collaborations and new opportunities.</i>
-</p>
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200">
 </p>
