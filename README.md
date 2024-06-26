@@ -2,10 +2,11 @@
 <p align="center">
   <img src="https://placeimg.com/1000/300/tech" alt="Banner Image">
 </p>
+
 <!-- Header -->
 <h1 align="center">Hi there, I'm Umer 👋</h1>
 <p align="center">
-  <a href="www.linkedin.com/in/umer-khan-141a54221"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/umer-khan-141a54221"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"></a>
 </p>
 
 <!-- Intro -->
@@ -26,14 +27,14 @@
 <!-- Featured Projects -->
 <h3 align="center">🔥 Featured Projects:</h3>
 <p align="center">
-  <a href="https://github.com/yourusername/project1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1"></a>
-  <a href="https://github.com/yourusername/project2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2"></a>
+  <a href="https://github.com/yourusername/project1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=dark"></a>
+  <a href="https://github.com/yourusername/project2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=dark"></a>
 </p>
 
 <!-- GitHub Stats -->
 <h3 align="center">📈 GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark">
 </p>
 
 <!-- Footer -->
