@@ -1,9 +1,9 @@
 <!-- Background color and styling -->
-<div style="background-color:#f0f0f0; padding: 20px; border-radius: 10px;">
+<div style="background-color:#24292e; padding: 20px; border-radius: 10px;">
 
   <!-- Banner (replace with your own GIF URL) -->
   <p align="center">
-    <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" alt="Cool GIF Banner" style="border-radius: 10px;">
+    <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Cool Coding GIF Banner" style="border-radius: 10px;">
   </p>
 
   <!-- Header -->
