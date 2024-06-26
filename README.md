@@ -30,24 +30,24 @@
   <!-- Featured Projects -->
   <h3 align="center">🔥 Featured Projects:</h3>
   <p align="center">
-    <a href="https://github.com/yourusername/project1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=dark"></a>
-    <a href="https://github.com/yourusername/project2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=dark"></a>
+    <a href="https://github.com/I-UmerKhan/project1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=I-UmerKhan&repo=project1&theme=dark"></a>
+    <a href="https://github.com/I-UmerKhan/project2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=I-UmerKhan&repo=project2&theme=dark"></a>
   </p>
 
   <!-- GitHub Stats -->
   <h3 align="center">📈 GitHub Stats:</h3>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark">
+    <img src="https://github-readme-stats.vercel.app/api?username=I-UmerKhan&show_icons=true&theme=dark">
   </p>
 
   <!-- Streak Stats -->
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=I-UmerKhan&theme=dark">
   </p>
 
   <!-- Top Languages -->
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=I-UmerKhan&layout=compact&theme=dark">
   </p>
 
   <!-- Footer -->
@@ -55,4 +55,5 @@
     <i>Let's connect and chat! Open to collaborations and new opportunities.</i>
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTE0eW41aTlhbHZjem1lMGJ0OTl2dDNueWFtOHQxZWltMWNwNmh1biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7aTqp7rSDB6uoTgA/giphy.gif" alt="Funny GIF" style="vertical-align: middle; max-width: 50px;">
   </p>
+
 </div>
