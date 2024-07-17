@@ -34,8 +34,13 @@
   <!-- Featured Projects -->
   <h2 align="center" style="font-size: 24px;">🔥 Featured Projects:</h2>
   <p align="center">
-    <a href="https://github.com/I-UmerKhan/project1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=I-UmerKhan&repo=project1&theme=dark" alt="Project 1"></a>
-    <a href="https://github.com/I-UmerKhan/project2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=I-UmerKhan&repo=project2&theme=dark" alt="Project 2"></a>
+    <a href="https://github.com/I-UmerKhan/ML-project-1-content-based-classifier-movie-recomendation-system"><img src="https://github-readme-stats.vercel.app/api/pin/?username=I-UmerKhan&repo=ML-project-1-content-based-classifier-movie-recomendation-system&theme=dark" alt="Content-Based Movie Recommendation System"></a>
+    <a href="https://github.com/I-UmerKhan/ML-Project-2-SMS_SPAMS_Classifier"><img src="https://github-readme-stats.vercel.app/api/pin/?username=I-UmerKhan&repo=ML-Project-2-SMS_SPAMS_Classifier&theme=dark" alt="SMS SPAM Classifier"></a>
+    <a href="https://github.com/I-UmerKhan/ML-Project-3-Car-price-predictor"><img src="https://github-readme-stats.vercel.app/api/pin/?username=I-UmerKhan&repo=ML-Project-3-Car-price-predictor&theme=dark" alt="Car Price Predictor"></a>
+    <a href="https://github.com/I-UmerKhan/ML-Project-4-Pakwheels-price-predictor"><img src="https://github-readme-stats.vercel.app/api/pin/?username=I-UmerKhan&repo=ML-Project-4-Pakwheels-price-predictor&theme=dark" alt="PakWheels Price Predictor"></a>
+    <a href="https://github.com/I-UmerKhan/ML-project-5-olympic-data-analysis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=I-UmerKhan&repo=ML-project-5-olympic-data-analysis&theme=dark" alt="Olympic Data Analysis"></a>
+    <a href="https://github.com/I-UmerKhan/ML-project-6-book-recommendation-system"><img src="https://github-readme-stats.vercel.app/api/pin/?username=I-UmerKhan&repo=ML-project-6-book-recommendation-system&theme=dark" alt="Book Recommendation System"></a>
+    <a href="https://github.com/I-UmerKhan/amazon-review-sentiment-analysis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=I-UmerKhan&repo=amazon-review-sentiment-analysis&theme=dark" alt="Amazon Review Sentiment Analysis"></a>
   </p>
 
   <!-- GitHub Stats -->
